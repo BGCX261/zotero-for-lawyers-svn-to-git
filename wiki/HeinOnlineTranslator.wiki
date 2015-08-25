@@ -1,0 +1,22 @@
+HeinOnline
+
+=== Introduction ===
+
+[http://www.heinonline.org/ HeinOnline] content spans multiple library collections, and subscribers in more than 150 countries enjoy online access to tens of millions of pages of research material that in many instances is only available online in HeinOnline.
+
+=== Details ===
+
+  * The SQL code for the Zotero translator is here: [http://zotero-for-lawyers.googlecode.com/svn/trunk/HeinOnline-translator.sql HeinOnline-translator.sql].
+  * Creates a "Journal Article" item.
+  * Supported fields: "Title", "Author", "Publication", "Volume", "Pages" (partial), "Date", "Journal Abbr.", "Short Title"
+  * Currently supports Law Review articles only.
+  * Link to PDF version appears in "Notes" tab.
+
+=== Last Modified ===
+
+2007-06-19 
+  * URL is set to bookmark for article instead of first page of journal.
+
+=== Test Links ===
+
+  * [http://heinonline.org/HOL/Page?handle=hein.journals/mqslr2&id=2&size=2&collection=journals&index=journals/mqslr 2 Marq. Sports L. J. 175 (1991-1992)Drugs vs. Privacy: The New Game in Sports; Palmer, Charles A.] (You need to be a subscriber!!).

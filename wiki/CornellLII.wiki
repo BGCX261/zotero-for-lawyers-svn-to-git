@@ -1,0 +1,27 @@
+Cornell Legal Information Institute
+
+=== Introduction ===
+
+The [http://www.law.cornell.edu/ LII] is known internationally as a leading "law-not-com" provider of public legal information. We offer all opinions of the United States Supreme Court handed down since 1992, together with over 600 earlier decisions selected for their historic importance, over a decade of opinions of the New York Court of Appeals, and the full United States Code. We also publish important secondary sources: libraries in two important areas (legal ethics and social security) and a series of "topical" pages that serve as concise explanatory guides and Internet resource listings for roughly 100 areas of law.
+
+=== Details ===
+
+  * The SQL code for the Zotero translator is here: [http://zotero-for-lawyers.googlecode.com/svn/trunk/CornellLII-translator.sql CornellLII-translator.sql].
+  * Supported Case fields: "Case Name", "Court", "Language", "Date Decided", "Author" (judge), "History", "Reporter", "Reporter Volume", "First Page", "Short Title"
+  * Most fields are extracted from the page's Meta tags.
+  * Bluebook citation appears in "Notes" tab.
+  * Zotero Tags imported from "Group" meta tags, where available.
+  * Currently supports Supreme Court case law only.
+  * Doesn't support search URLs.
+
+=== Last Modified ===
+
+2007-07-26 07:43:29
+  * Recognizes URLs that begin with "supct" or "www".
+
+=== Test Links ===
+
+  * [http://www.law.cornell.edu/supct/html/historics/USSC_CR_0410_0113_ZO.html Roe v. Wade (Majority Opinion)].
+
+  * [http://supct.law.cornell.edu/supct/html/06-480.ZS.html Legin Creative Leather Products v. PSKS (Syllabus)].
+

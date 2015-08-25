@@ -1,0 +1,22 @@
+Australasian Legal Information Institute
+
+= Introduction =
+
+The [http://www.austlii.edu.au/ Australasian Legal Information Institute (AustLII)] provides free internet access to Australasian legal materials. AustLII's broad public policy agenda is to improve access to justice through better access to information.
+
+= Details =
+
+  * The SQL code for the Zotero translator is here: [http://zotero-for-lawyers.googlecode.com/svn/trunk/AustLII-NZLII-translator.sql AustLII-NZLII-translator.sql].
+  * This translator also works on the [http://www.nzlii.org/ New Zealand LII]
+  * Supported Case fields: "Case Name", "Court" (abbreviated) and "Date Decided"
+  * Above fields are extracted from the page's title tag.
+  * Currently supports case law only.
+
+= Test Links =
+
+  * [http://www.austlii.edu.au/au/cases/cth/high_ct/2007/18.html Bennett v Commonwealth of Australia (AustLII)].
+  * [http://www.austlii.edu.au//cgi-bin/disp.pl/au/cases/cth/federal_ct/2000/916.html?query=Bennett  Bennett v Government of the United Kingdom (AustLII - via search)].
+  * [http://www.nzlii.org/nz/cases/NZCA/2007/67.html The Queen v Shen (NZLII)].
+
+
+

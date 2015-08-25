@@ -1,0 +1,23 @@
+SSRN
+
+=== Introduction ===
+
+[http://www.ssrn.com/ Social Science Research Network (SSRN)] is devoted to the rapid worldwide dissemination of social science research and is composed of a number of specialized research networks in each of the social sciences.
+
+=== Details ===
+  * Important: you should be logged in to take best advantage of this translator since much of the citation information is taken from an EndNote export that is only available to users who have logged in.
+  * The SQL code for the Zotero translator is here: [http://zotero-for-lawyers.googlecode.com/svn/trunk/SSRN-translator.sql SSRN-translator.sql].
+  * Creates a "Journal Article" item.
+  * Supported fields: "Title", "Author", "Abstract", "Series Title", "Language", "Publication", "Volume", "Pages" (partial), "Date"
+  * SSRN's "Suggested Citation" appears in "Notes" tab.
+  * Any keywords are saved as tags.
+  * Automatic attachment of the PDF download is not supported (SSRN's method for downloading PDFs makes this difficult to do in Zotero).
+
+
+=== Last Modified ===
+
+2007-07-22 
+
+=== Test Links ===
+
+  * [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=932149  Vladeck, Stephen I., "Deconstructing Hirota: Habeas Corpus, Citizenship, and Article III" . Georgetown Law Journal, Vol. 95, May 2007] (You should be logged in first!!).

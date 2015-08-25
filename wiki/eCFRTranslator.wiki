@@ -1,0 +1,17 @@
+United States Electronic Code of Federal Regulations (e-CFR)
+
+== Introduction ==
+
+[http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?sid=e250389f3b1ac8fbf5a9e0bf6d53cbd1&c=ecfr&tpl=%2Findex.tpl United States Electronic Code of Federal Regulations (e-CFR)] 
+
+The Electronic Code of Federal Regulations (e-CFR) is a currently updated version of the Code of Federal Regulations (CFR). It is not an official legal edition of the CFR. The e-CFR is an editorial compilation of CFR material and Federal Register amendments produced by the National Archives and Records Administration's Office of the Federal Register (OFR) and the Government Printing Office. The OFR updates the material in the e-CFR on a daily basis.
+
+== Details ==
+
+  * The SQL code for the Zotero translator is here: [http://zotero-for-lawyers.googlecode.com/svn/trunk/eCFR-translator.sql eCFR-translator.sql].
+  * Supported Statute fields: "Code", "Code Number", "Section", "History", "Language", "Short Title", "Extra" (for authorizing statutes)
+  
+== Test Links ==
+
+  * [http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&sid=e250389f3b1ac8fbf5a9e0bf6d53cbd1&rgn=div5&view=text&node=24:2.1.3.8.1&idno=24 Title 24: Housing and Urban Development].
+

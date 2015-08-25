@@ -1,0 +1,21 @@
+Canadian Legal Information Institute
+
+= Introduction =
+
+The [http://www.canlii.org/en/ Canadian Legal Information Institute (CanLII)] is a non-profit organization managed by the Federation of Law Societies of Canada. CanLII's goal is to make Canadian law accessible for free on the Internet.
+
+= Details =
+
+  * The SQL code for the Zotero translator is here: [http://zotero-for-lawyers.googlecode.com/svn/trunk/CanLII-translator.sql CanLII-translator.sql].
+  * Supported Case fields: "Case Name", "Court" (abbreviated), "Language" and "Date Decided"
+  * Above fields are extracted from the page's Meta tags.
+  * Currently supports case law only.
+  * Doesn't support search URLs.
+  * Currently supports English version only.
+
+= Test Links =
+
+  * [http://www.canlii.org/en/yk/yksc/doc/2007/2007yksc28/2007yksc28.html Little Salmon/Carmacks First Nation v. The Government of Yukon].
+  * [http://www.canlii.org/en/on/onscdc/doc/2007/2007canlii19421/2007canlii19421.html Hsuen v. Ontario Municipal Board Churchill-Basswood Developments Inc.].
+
+

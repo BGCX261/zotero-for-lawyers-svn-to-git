@@ -1,0 +1,18 @@
+British and Irish Legal Information Institute
+
+= Introduction =
+
+The [http://www.bailii.org/ British and Irish Legal Information Institute (BAILII)] provides access to the most comprehensive set of British and Irish primary legal materials that are available for free and in one place on the internet. In September 2006, BAILII included 74 databases covering 7 jurisdictions. The system contains around 9.4 gigabytes of legal materials and around 186,000 searchable documents with about 4 million internal hypertext links.
+
+= Details =
+
+  * The SQL code for the Zotero translator is here: [http://zotero-for-lawyers.googlecode.com/svn/trunk/BAILII-translator.sql BAILII-translator.sql].
+  * Supported Case fields: "Case Name", "Court" (abbreviated), "Date Decided", "Author"
+  * Most fields are extracted from the page's title tag.
+  * Currently supports case law only.
+  * Adds "Neutral Citation Number" as a note.
+
+= Test Links =
+
+  * [http://www.bailii.org/ew/cases/EWHC/Patents/2006/2506.html Novartis Ag v IVAX Pharmaceuticals UK Ltd].
+  * [http://www.bailii.org/cgi-bin/markup.cgi?doc=/ew/cases/EWHC/Admin/2007/998.html&query=WANDSWORTH&method=boolean  HMP Wandsworth, Governor of v Kinderis (via search)].
